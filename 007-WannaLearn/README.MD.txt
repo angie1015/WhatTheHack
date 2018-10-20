@@ -1,4 +1,4 @@
-# What The Hack - Wanna Learn
+# What The Hack - Wanna Learn How to Hack
 
 Repo contains:
 - Challenges
